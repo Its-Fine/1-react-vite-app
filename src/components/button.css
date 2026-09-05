@@ -1,0 +1,24 @@
+.button1{
+    background: #1D1D1D;
+    width: 150px;
+    height: 35px;
+    border-radius: 15px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.button1-p{
+    color: #C5C5C5;
+    font-size: 14px;
+    font-family: "Roboto", sans-serif;
+}
+
+.button1.create{
+    background: #C5C5C5;
+    
+}
+.button1.create .button1-p{
+    color: #1D1D1D;
+}     
